@@ -1,1 +1,1 @@
-# Ouranos-GSD-lib-for-JavaScript
+# ouranos-gex-lib-for-JavaScript
