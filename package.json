@@ -1,0 +1,42 @@
+{
+  "name": "ouranos-gex-lib-for-javascript",
+  "version": "0.0.0",
+  "description": "The reference implementation of the Spatial ID Object Model Specification for JavaScript or TypeScript consumers.",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "README.md",
+    "LICENSE",
+    "package.json",
+    "dist/**/*",
+    "dist/*"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ouranos-gex/ouranos-gex-lib-for-JavaScript.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ouranos-gex/ouranos-gex-lib-for-JavaScript/issues"
+  },
+  "homepage": "https://github.com/ouranos-gex/ouranos-gex-lib-for-JavaScript#readme",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.0",
+    "@rollup/plugin-node-resolve": "^13.2.1",
+    "@turf/bbox": "^6.5.0",
+    "@turf/boolean-intersects": "^6.5.0",
+    "@types/geojson": "^7946.0.8",
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "rollup": "^2.70.2",
+    "rollup-plugin-typescript2": "^0.31.2",
+    "ts-jest": "^27.1.4",
+    "typescript": "^4.6.3"
+  }
+}
