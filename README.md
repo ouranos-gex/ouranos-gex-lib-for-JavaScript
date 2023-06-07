@@ -6,7 +6,7 @@
 <!--[Digital Architecture Design Center 4次元時空間情報基盤 ガイドライン](https://www.ipa.go.jp/digital/architecture/project/autonomousmobilerobot/3dspatial_guideline.html)-->
 <p><a href="https://www.ipa.go.jp/digital/architecture/project/autonomousmobilerobot/3dspatial_guideline.html" target="_blank">Digital Architecture Design Center 4次元時空間情報基盤アーキテクチャガイドライン（β版）</a></p>
 
-## 利用方法
+## 共通ライブラリ利用方法
 1. npmインストール
 ```
 npm install git+https://github.com/ouranos-gex/ouranos-gex-lib-for-JavaScript.git
