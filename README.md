@@ -1,4 +1,5 @@
-# ウラノスGEX　4次元時空間情報基盤用　共通ライブラリ（JavaScript版）
+# ウラノスGEX 4次元時空間情報基盤用 共通ライブラリ(JavaScript版)
+![Voxel_Image](voxel_image.png)
 
 ## 概要
 - 任意の座標を空間IDに変換するライブラリです。
